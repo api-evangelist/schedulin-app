@@ -1,4 +1,4 @@
-# schedulin-app
+# Schedulin
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,160 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-schedulin-app is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://schedulin.app/
+Schedulin is a calm, affordable social media scheduler that lets users post to TikTok, Instagram, LinkedIn, X, YouTube and more from a single dashboard. It offers a 7‑day free trial and plans starting at $5 per month, targeting individuals and small businesses seeking multi‑platform content automation.
+
+**Areas:** Social Media Scheduling · AI Assistant · REST API · Analytics
+
+## Schedulin on APIs.io
+
+Everything profiled for Schedulin is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/schedulin-app/](https://apis.io/providers/schedulin-app/)** — or go straight to one of the APIs or properties below.
+
+### APIs (11)
+
+- [Schedulin Analytics API](https://apis.io/apis/schedulin-app/schedulin-app-analytics-api/) — The Analytics API from Schedulin — 3 operation(s) for analytics.
+- [Schedulin Client Profiles API](https://apis.io/apis/schedulin-app/schedulin-app-client-profiles-api/) — The Client Profiles API from Schedulin — 3 operation(s) for client profiles.
+- [Schedulin Ideas API](https://apis.io/apis/schedulin-app/schedulin-app-ideas-api/) — The Ideas API from Schedulin — 2 operation(s) for ideas.
+- [Schedulin Media API](https://apis.io/apis/schedulin-app/schedulin-app-media-api/) — The Media API from Schedulin — 9 operation(s) for media.
+- [Schedulin Platforms API](https://apis.io/apis/schedulin-app/schedulin-app-platforms-api/) — The Platforms API from Schedulin — 1 operation(s) for platforms.
+- [Schedulin Posts API](https://apis.io/apis/schedulin-app/schedulin-app-posts-api/) — The Posts API from Schedulin — 9 operation(s) for posts.
+- [Schedulin Social Accounts API](https://apis.io/apis/schedulin-app/schedulin-app-social-accounts-api/) — The Social Accounts API from Schedulin — 11 operation(s) for social accounts.
+- [Schedulin Studio API](https://apis.io/apis/schedulin-app/schedulin-app-studio-api/) — The Studio API from Schedulin — 6 operation(s) for studio.
+- [Schedulin Tags API](https://apis.io/apis/schedulin-app/schedulin-app-tags-api/) — The Tags API from Schedulin — 2 operation(s) for tags.
+- [Schedulin Webhooks API](https://apis.io/apis/schedulin-app/schedulin-app-webhooks-api/) — The Webhooks API from Schedulin — 5 operation(s) for webhooks.
+- [Schedulin Workspace API](https://apis.io/apis/schedulin-app/schedulin-app-workspace-api/) — The Workspace API from Schedulin — 1 operation(s) for workspace.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Schedulin App Webhooks](https://apis.io/asyncapis/schedulin-app/schedulin-app-webhooks/)
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Schedulin Agentic Access](https://apis.io/agentic-access/schedulin-app/schedulin-app-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [AiGeneration](https://apis.io/schemas/schedulin-app/schedulin-app-ai-generation/)
+- [ClientProfile](https://apis.io/schemas/schedulin-app/schedulin-app-client-profile/)
+- [Post](https://apis.io/schemas/schedulin-app/schedulin-app-post/)
+- [PostCreate](https://apis.io/schemas/schedulin-app/schedulin-app-post-create/)
+- [PostWithRelations](https://apis.io/schemas/schedulin-app/schedulin-app-post-with-relations/)
+- [WebhookEndpoint](https://apis.io/schemas/schedulin-app/schedulin-app-webhook-endpoint/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Schedulin App Context](https://apis.io/jsonld/schedulin-app/schedulin-app-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Schedulin API Rules](https://apis.io/rules/schedulin-app/schedulin-app-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Schedulin Authentication](https://apis.io/security/schedulin-app/schedulin-app-authentication/)
+- [Schedulin Domain Security](https://apis.io/security/schedulin-app/schedulin-app-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Schedulin Scopes](https://apis.io/scopes/schedulin-app/schedulin-app-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Schedulin Plans Pricing](https://apis.io/plans/schedulin-app/schedulin-app-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Schedulin Rate Limits](https://apis.io/rate-limits/schedulin-app/schedulin-app-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://schedulin.app/)
+- [Documentation](https://developers.schedulin.app/)
+- [Getting started](https://developers.schedulin.app/guides/quick-start)
+- [API reference](https://developers.schedulin.app/reference)
+- [Pricing](https://www.schedulin.app/pricing)
+- [Support](https://support.schedulin.app)
+- [Changelog](https://www.schedulin.app/changelog)
+- [Blog](https://www.schedulin.app/blog)
+- [Terms of service](https://www.schedulin.app/terms)
+- [Privacy policy](https://www.schedulin.app/privacy)
+- [Status](https://status.schedulin.app)
+
+## API Evangelist rating
+
+**Kin Score 71.0** — exemplar · rubric 0.28.0 · scored 2026-11-24
+
+| Facet | Score |
+|---|---|
+| Discoverability | 76.8 |
+| Contract quality | 67.4 |
+| Contract governance | 79.1 |
+| Operational transparency | 61.4 |
+| Developer ergonomics | 77.9 |
+| Access clarity | 59.1 |
+
+**Agent readiness 61.4** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | verified |
+| Event Surface Described | unknown |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 28.4** — AI & Biometrics
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/schedulin-app/](https://apis.io/providers/schedulin-app/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Schedulin: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/schedulin-app/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
